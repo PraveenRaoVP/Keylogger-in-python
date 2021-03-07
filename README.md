@@ -1,0 +1,2 @@
+# Keylogger-in-python
+This is for educational purposes only. A keylogger is a program that monitors and records keystrokes from the keyboard of the user and stores it somewhere. this is particularly used in the negative side, like stealing passwords, and other important credentials. Some of the positive uses include monitoring emplyee activities in the company system, typing websites and tutorials etc.

